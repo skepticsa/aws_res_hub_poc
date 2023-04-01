@@ -27,3 +27,13 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+timecmd.bat
+*.json
+readme.txt
+resilience.pem
+tf.step_1/.terraform.lock.hcl
+tf.step_1/terraform.tfstate
+tf.step_1/terraform.tfstate.backup
+tf.step_2/.terraform.lock.hcl
+tf.step_2/terraform.tfstate
+tf.step_2/terraform.tfstate.backup
