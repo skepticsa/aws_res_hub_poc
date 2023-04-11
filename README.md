@@ -5,7 +5,7 @@ Author: https://www.linkedin.com/in/danut/
 
 This set of examples will help us learn what AWS Resilience Hub can detect and how to fix the issues.
 
-I build these examples based on this documentation.
+I built these examples based on this documentation.
 
 https://aws.amazon.com/blogs/architecture/building-resilient-well-architected-workloads-using-aws-resilience-hub/
 
