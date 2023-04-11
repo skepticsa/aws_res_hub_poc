@@ -3,7 +3,7 @@
 
 Author: https://www.linkedin.com/in/danut/
 
-This set of examples will help us learn what AWS Resilience Hub can detect and how to fix the issue to deploy a Resilient Workload.
+This set of examples will help us learn what AWS Resilience Hub can detect and how to fix the issues.
 
 I build these examples based on this documentation.
 
